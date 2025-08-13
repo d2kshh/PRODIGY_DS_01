@@ -17,7 +17,6 @@ Used the sample dataset provided by Prodigy Infotech.
 - **Jupyter Notebook**
 - **Pandas** – For data manipulation
 - **Matplotlib** – For plotting graphs
-- **Seaborn** – For advanced visualization styling
 
 ---
 
